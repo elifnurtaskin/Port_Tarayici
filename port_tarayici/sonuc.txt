@@ -1,0 +1,2 @@
+Tarama sonuçlarý IP: 192.168.1.10
+Açýk port bulunamadý.
